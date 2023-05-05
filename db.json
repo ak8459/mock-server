@@ -1,0 +1,94 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "title": "Online Guitar Course",
+      "subHeading": "Strike the strings of Guitar and unleash the Rockstar in you ...",
+      "category": "Music",
+      "image": "https://media.istockphoto.com/id/941495764/photo/first-guitar-class.jpg?s=612x612&w=0&k=20&c=0Bunv-SVVloFbU6LlRKTf-oTaew1fXRNvuaxul0C0Tw=",
+      "price": 8000,
+      "ageGroup": "5-14"
+    },
+    {
+      "id": 2,
+      "title": "Online Art and Craft Course",
+      "subHeading": "Get creative with colors with this Art and Craft course!",
+      "category": "Art & Craft",
+      "image": "https://juicyjuice.com/wp-content/uploads/2019/05/JUI19124_eCRMArticleImages_463x353-PlayWithPaint.jpg",
+      "price": 5000,
+      "ageGroup": "5-14"
+    },
+    {
+      "id": 3,
+      "title": "Online Public Speaking Course",
+      "subHeading": "Improve confidence and communication skills with this beginn ...",
+      "category": "PublicSpeaking",
+      "image": "https://media.istockphoto.com/id/1209763708/photo/a-junior-high-girl-presents-to-her-classmates.jpg?s=612x612&w=0&k=20&c=-8a7upXnl9X4iAFv45scad2gJH8iOb8HDHhP5twHAas=",
+      "price": 10000,
+      "ageGroup": "6-14"
+    },
+    {
+      "id": 4,
+      "title": "Online Chess Course",
+      "subHeading": "Chess: strengthening the child's mind from a young age!",
+      "category": "Chess",
+      "image": "https://images.chesscomfiles.com/uploads/v1/article/23012.44601e8d.668x375o.3b4b3f91646a.jpeg",
+      "price": 9000,
+      "ageGroup": "5-16"
+    },
+    {
+      "id": 5,
+      "title": "Online Bollywood Dance Course",
+      "subHeading": "Learn to dance like a star on the Latest Bollywood Hits!",
+      "category": "Dance",
+      "image": "https://kidzu.co/wp-content/uploads/2017/10/Kidsdancing_1400-768x512.jpg",
+      "price": 9000,
+      "ageGroup": "5-14"
+    },
+    {
+      "id": 6,
+      "title": "Online Keyboard And Piano Course",
+      "subHeading": "Enter the world of Music and play magical tunes on Piano!",
+      "category": "Music",
+      "image": "https://www.yourmodernfamily.com/wp-content/uploads/2019/04/piano.jpg",
+      "price": 10000,
+      "ageGroup": "4-14"
+    },
+    {
+      "id": 7,
+      "title": "Online Flute Course",
+      "subHeading": "Enter the world of Music and play magical tunes on Piano!",
+      "category": "Music",
+      "image": "https://media.istockphoto.com/id/500159205/photo/boy-with-flute.jpg?s=612x612&w=0&k=20&c=n15HpkrpjtePWwqdxnBa4N_MwRNR1MwNdpm9eVozUq0=",
+      "price": 9000,
+      "ageGroup": "7-16"
+    },
+    {
+      "id": 8,
+      "title": "Online English Speaking Course",
+      "subHeading": "To learn or practice a language is through a fun!",
+      "category": "Language",
+      "image": "https://img.freepik.com/premium-photo/asian-children-learning-english-with-flash-cards-teach-young-kids-english-home-child-home-kindergarten-closed_83369-311.jpg",
+      "price": 5000,
+      "ageGroup": "5-16"
+    },
+    {
+      "id": 9,
+      "title": "Online Basic Science Course",
+      "subHeading": " Science is a fascinating subject that kids enjoy learning about!",
+      "category": "Science",
+      "image": "https://media.istockphoto.com/id/639407632/photo/excited-school-girls-during-chemistry-experiment.jpg?s=612x612&w=0&k=20&c=-W-vGm-bJ9XnxiCyFIxmLz3Asi0NJEiUjJoPShtBGLo=",
+      "price": 7000,
+      "ageGroup": "5-16"
+    },
+    {
+      "title": "Online Guitar Course",
+      "subHeading": "Strike the strings of Guitar and unleash the Rockstar in you ...",
+      "category": "Music",
+      "image": "https://media.istockphoto.com/id/941495764/photo/first-guitar-class.jpg?s=612x612&w=0&k=20&c=0Bunv-SVVloFbU6LlRKTf-oTaew1fXRNvuaxul0C0Tw=",
+      "price": 8000,
+      "ageGroup": "5-14",
+      "id": 10
+    }
+  ]
+}
